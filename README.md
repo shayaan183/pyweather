@@ -1,5 +1,5 @@
 # **PyWeather (Python Weather App)** - CS50P Final Project
-### [**Video Demo**](https://www.youtube.com)
+### [**Video Demo**](https://www.youtube.com/watch?v=NtBiF9wOoJw)
 ### **Description:** A command-line weather app to find out about the current weather for any city you search
 
 # **Libraries**
